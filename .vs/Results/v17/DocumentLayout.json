@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyDemoProjectPractice\\Results\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31A7FC4D-6F0F-4302-B657-B5F1BF4ADA35}|Results.domain\\Results.domain.csproj|d:\\mydemoprojectpractice\\results\\results.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A7FC4D-6F0F-4302-B657-B5F1BF4ADA35}|Results.domain\\Results.domain.csproj|solutionrelative:results.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A7FC4D-6F0F-4302-B657-B5F1BF4ADA35}|Results.domain\\Results.domain.csproj|d:\\mydemoprojectpractice\\results\\results.domain\\results.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31A7FC4D-6F0F-4302-B657-B5F1BF4ADA35}|Results.domain\\Results.domain.csproj|solutionrelative:results.domain\\results.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA88283-8D49-41E6-9E59-85EC8A7AD931}|Results.BLL\\Results.BLL.csproj|d:\\mydemoprojectpractice\\results\\results.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA88283-8D49-41E6-9E59-85EC8A7AD931}|Results.BLL\\Results.BLL.csproj|solutionrelative:results.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D79C5D-F080-473F-85D7-9ED4D26E989B}|Results.DAL\\Results.DAL.csproj|d:\\mydemoprojectpractice\\results\\results.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D79C5D-F080-473F-85D7-9ED4D26E989B}|Results.DAL\\Results.DAL.csproj|solutionrelative:results.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1900058960:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Results.Domain",
+              "DocumentMoniker": "D:\\MyDemoProjectPractice\\Results\\Results.domain\\Results.Domain.csproj",
+              "RelativeDocumentMoniker": "Results.domain\\Results.Domain.csproj",
+              "ToolTip": "D:\\MyDemoProjectPractice\\Results\\Results.domain\\Results.Domain.csproj",
+              "RelativeToolTip": "Results.domain\\Results.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-11T10:45:59.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\MyDemoProjectPractice\\Results\\Results.BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "Results.BLL\\Class1.cs",
+              "ToolTip": "D:\\MyDemoProjectPractice\\Results\\Results.BLL\\Class1.cs",
+              "RelativeToolTip": "Results.BLL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:42:54.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\MyDemoProjectPractice\\Results\\Results.DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "Results.DAL\\Class1.cs",
+              "ToolTip": "D:\\MyDemoProjectPractice\\Results\\Results.DAL\\Class1.cs",
+              "RelativeToolTip": "Results.DAL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:42:17.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\MyDemoProjectPractice\\Results\\Results.domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Results.domain\\Class1.cs",
+              "ToolTip": "D:\\MyDemoProjectPractice\\Results\\Results.domain\\Class1.cs",
+              "RelativeToolTip": "Results.domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:41:41.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
